@@ -1,4 +1,7 @@
 extends Node
+## DEPRECATED
+## Agora a informação sobre as receitas e ingredientes ficam em GlobalResources
+
 
 var recipe_dict := {
 	"Limão Preto" : ["Café", "Limão"],

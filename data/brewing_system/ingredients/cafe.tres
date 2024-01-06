@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="Ingredient" load_steps=2 format=3 uid="uid://dpxe3awlpymme"]
+
+[ext_resource type="Script" path="res://scripts/brewing_system/ingredient.gd" id="1_qmf5o"]
+
+[resource]
+script = ExtResource("1_qmf5o")
+name = "Café"
+is_base = true
+flavor_sweet = 0
+flavor_bitter = 3
+flavor_smooth = 0
+flavor_warm = 4
+flavor_fresh = 0

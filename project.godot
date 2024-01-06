@@ -22,6 +22,7 @@ MusicPlayer="*res://scripts/autoloads/music_player.gd"
 Loader="*res://scripts/autoloads/loader.gd"
 Dialogic="*res://addons/dialogic/Other/DialogicGameHandler.gd"
 Data="*res://scripts/autoloads/data.gd"
+GlobalResources="*res://scripts/autoloads/global_resources.gd"
 
 [dialogic]
 
